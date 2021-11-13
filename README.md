@@ -1,5 +1,8 @@
 # SaveTheChild
-A website to sponsor a child's education.
+A website to sponsor a child's education. 
+
+Since this is not a static website, we couldn’t host it on to the internet through github. We are attaching the files which has to be downloaded after which the following steps are to be followed to host it locally.
+
 Step-1: Extract/unzip the file
 
 Step-2: Go inside the project folder, open cmd and type the following commands to Django Framework and run the webserver:
